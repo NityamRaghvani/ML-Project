@@ -1,0 +1,5 @@
+required libraries for Python file:
+pandas
+numpy
+matplotlib
+scikit-learn
