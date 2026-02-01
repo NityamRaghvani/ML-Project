@@ -1,4 +1,4 @@
-**Server Room Temperature Predictor (Linear Regression)**
+## **Server Room Temperature Predictor (Linear Regression)**
 
 ## 📌 Problem Statement
 Manual temperature monitoring in server rooms is reactive. 
